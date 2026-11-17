@@ -1,0 +1,8 @@
+# Ignore environment variables / secrets
+.env
+.env*.local
+
+# Ignore media & documents
+*.mp4
+*.pdf
+*.docx
